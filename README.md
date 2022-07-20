@@ -5,5 +5,5 @@ It just uses issues and releases to manage (binary) beta releases. The open sour
 
 More info on [https://stkrake.de/blRstr](https://stkrake.de/blRstr).
 
-Latest beta release: https://github.com/stkrake/blRstr/releases/tag/v1.0.3-beta
+Latest beta release: https://github.com/stkrake/blRstr/releases/tag/v1.0.4-beta
 
